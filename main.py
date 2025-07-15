@@ -49,5 +49,5 @@ def main():
         else:
             st.warning('Please enter a name.') # warning message
 
-if __name__ == '__main__':
+if __name__ == '__main__':      #"It allows developers to include code that only runs when the file is executed directly, not when imported—keeping things clean and modular."
     main()
